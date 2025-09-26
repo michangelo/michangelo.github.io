@@ -19,7 +19,7 @@ author_profile: true
 
 #  
 feature_row:
-  - image_path: /assets/images/about.png
+  - image_path: /assets/images/IMG_3693.jpg
     image_size: 100px
     alt: "About"
     title: "About"
