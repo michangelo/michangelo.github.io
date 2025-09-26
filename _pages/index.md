@@ -14,7 +14,7 @@ header:
 excerpt: Passionate geoscientist dedicated to exploring Earth's dynamic landscapes and understanding how natural processes and human activities shape our planet. <br />
 
 # Includes author profile in sidebar
-author: First M. Last
+author: Michael A. Cox
 author_profile: true
 
 #  
