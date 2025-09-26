@@ -2,7 +2,7 @@
 
 First M. Last:
   name             : "Michael A. Cox"
-  avatar           : "/assets/images/about.png" # path of avatar image, e.g. "/assets/images/avatar.png"
+  avatar           : "/assets/images/IMG_3693.jpg" # path of avatar image, e.g. "/assets/images/avatar.png"
   bio              : "<br/>Department of Geological Sciences, University of Florida<br/>"
   location         : Gainesville, FL
   email            : michael.cox1@ufl.edu
